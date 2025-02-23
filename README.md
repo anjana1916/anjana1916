@@ -4,7 +4,7 @@ I'm looking to collaborate on Data science projects, especially those involving 
 I'm looking for help with Frontend and backend development to improve my technical skills and build more robust projects.<br>
 I'm currently learning React to enhance my web development capabilities and create dynamic user interfaces.<br>
 Ask me about my favorite dance moves—I love to groove and have a few signature steps!<br>
-Fun fact I’m a huge dog lover and can’t resist petting every dog I meet. 🐶<br>
+Fun fact - I’ve petted over 50 dogs in Melbourne… and counting! 🐶<br>
 
 
 ## 🌐 Socials:
